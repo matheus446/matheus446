@@ -24,6 +24,12 @@
 
 ---
 
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-1a1b27?style=for-the-badge&logo=gmail)](mailto:matheus.feandrade2009@gmail.com)
+
+---
+
 ## 🐍 Contribution Snake
 
 ![snake](https://github.com/matheus446/TalvezsejaoMago/blob/output/github-contribution-grid-snake-dark.svg)

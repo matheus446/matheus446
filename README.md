@@ -26,7 +26,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/matheus446/TalvezsejaoMago/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/matheus446/TalvezsejaoMago/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
